@@ -22,6 +22,6 @@ Python 2.7 or hiher: You can download it from the official site - [Python Softwa
 
 # Built With
 
-* (https://www.virtualbox.org/wiki/Downloads) - vagrant.
-* (https://www.vagrantup.com/) - virtualbox.
+* [Vagrant](https://www.virtualbox.org/wiki/Downloads)
+* [Virtualbox](https://www.vagrantup.com/)
 
